@@ -11,9 +11,10 @@ Web application to add tasks and have them saved in the LocalStoraje, using:
 
 ---
 
-### Test app
+### 👇👇👇 Test app 👇👇👇
 
--[Test the application in your browser => ](https://klich1984.github.io/App-Task-JavaScript/)
+[Test the application in your browser ](https://klich1984.github.io/App-Task-JavaScript/src/index.html)
+
 ---
 
 ## Screenshot
